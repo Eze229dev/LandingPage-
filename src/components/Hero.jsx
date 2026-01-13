@@ -14,7 +14,10 @@ export const Hero = () =>{
 
                 </h1>
                 <p className="body-1 text-n-5">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate iure exercitationem ratione ducimus repellendus maxime reprehenderit mollitia placeat, voluptatibus alias corporis nesciunt. Consectetur et nesciunt voluptates modi aspernatur odio obcaecati.
+                      Building frontend experiences that make sense
+
+I help turn ideas into clean, scalable, and user-focused frontend interfaces.
+From understanding the problem to delivering a polished product, my approach is structured, thoughtful, and focused on real impact.
                 </p>
                 <Button theme="primary" href="/#pricing">Pricing and plans</Button>
                 </div>
